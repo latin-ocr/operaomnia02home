@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia02home/operaomnia02home_0012.png"; bbox 0 0 1811 3159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1811 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1811 3156">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1811 3156; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1811 2692; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1030 2612 1811 3156; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 828 2601 1083 2672">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 828 2601 1083 2672">
+     <span class='ocr_line' id='line_1_2' title="bbox 828 2601 1083 2672; baseline -0.004 -8"><span class='ocrx_word' id='word_1_3' title='bbox 828 2632 1030 2672; x_wconf 60' lang='lat' dir='ltr'><strong>‚unqua-t</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1080 2601 1083 2609; x_wconf 43' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 852 2693 998 2720">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 852 2693 998 2720">
+     <span class='ocr_line' id='line_1_3' title="bbox 852 2693 998 2720; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 852 2704 900 2720; x_wconf 53' lang='lat' dir='ltr'><strong>s·-</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 909 2693 998 2719; x_wconf 62' lang='grc' dir='ltr'><strong><em>ια’...</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 839 2749 1010 2813">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 839 2749 1010 2813">
+     <span class='ocr_line' id='line_1_4' title="bbox 839 2749 1010 2813; baseline 0.006 -27"><span class='ocrx_word' id='word_1_7' title='bbox 839 2750 843 2786; x_wconf 84' lang='grc' dir='ltr'><em>ῑ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 868 2749 1010 2813; x_wconf 13' lang='grc' dir='ltr'><strong>,ἕξειν</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
